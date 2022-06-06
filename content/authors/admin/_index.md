@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include air quality, sensors network and statistical data analysis.
 education:
   courses:
   - course: PhD in Environmenta Science
@@ -15,9 +14,9 @@ education:
 email: "federico.dallo.1989@gmail.com"
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Air Quality
+- Wireless Sensors Network
+- Statistical Data Analysis
 organizations:
 - name: Berkeley University
   url: https://cbe.berkeley.edu/about-us/people/federico-dallo/
@@ -39,7 +38,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/federico-dallo-b351a582/
 superuser: true
-title: Nelson Bighetti
+title: Federico Dallo
 ---
 
 Federico Dallo, PhD, joins CBE as a postdoctoral researcher from Ca’ Foscari University of Venice and a Marie Curie Fellow. He brings expertise with wireless monitoring in remote field installations.
