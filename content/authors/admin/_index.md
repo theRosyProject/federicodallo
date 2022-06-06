@@ -3,47 +3,45 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Environmenta Science
+    institution: Ca' Foscari University of Venice
+    year: 2017
+  - course: ME in Chemistry
+    institution: University of Ferrara
+    year: 2013
+  - course: BS in Chemistry
+    institution: University of Ferrara
+    year: 2011
+email: "federico.dallo.1989@gmail.com"
 highlight_name: true
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Berkeley University
+  url: https://cbe.berkeley.edu/about-us/people/federico-dallo/
+role: Postdoctoral Researcher
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=6iBFss4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/theRosyProject
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/federico-dallo-b351a582/
 superuser: true
 title: Nelson Bighetti
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Federico Dallo, PhD, joins CBE as a postdoctoral researcher from Ca’ Foscari University of Venice and a Marie Curie Fellow. He brings expertise with wireless monitoring in remote field installations.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
