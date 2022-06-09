@@ -1,4 +1,5 @@
 ---
+active: false
 authors:
 - admin
 - 吳恩達
