@@ -1,0 +1,36 @@
+---
+title: My first post
+author: ''
+date: '2022-06-08'
+slug: my-first-post
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-06-08T23:19:18-07:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+```{r echo=FALSE}
+library(ggplot2)
+
+x <- seq(-1, 1, .01)
+y <- sin(x^3)/(1 + x^6)
+
+dumb_df <- data.frame(x=x, y=y)
+
+ggplot(data = dumb_df, aes(x = x, y = y)) +
+geom_line() +
+geom_ribbon(
+  aes(ymin = 0, ymax = y), 
+  fill = "pink", 
+  alpha = 0.5
+  ) +
+theme_void() 
+```
