@@ -25,7 +25,7 @@ experience:
   - title: Marie Skłodowska-Curie postdoctoral scholar
     company: UC Berkeley
     company_url: 'https://cbe.berkeley.edu/about-us/people/federico-dallo/'
-    company_logo: berkeley2
+    company_logo: org-gc
     location: California
     date_start: '2021-01-15'
     date_end: '2023-01-15'
@@ -39,7 +39,7 @@ experience:
   - title: Lecturer of R for Building Science
     company: UC Berkeley
     company_url: 'https://github.com/CenterForTheBuiltEnvironment/R-for-Building-Science'
-    company_logo: berkeley
+    company_logo: org-gc
     location: California
     date_start: '2022-04-01'
     date_end: '2022-05-01'
