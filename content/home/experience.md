@@ -36,10 +36,10 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of R for Building Science
+  - title: Lecturer of R for Building Science
     company: UC Berkeley
     company_url: 'https://github.com/CenterForTheBuiltEnvironment/R-for-Building-Science'
-    company_logo: org-x
+    company_logo: berkeley.jpg
     location: California
     date_start: '2022-04-01'
     date_end: '2022-05-01'
