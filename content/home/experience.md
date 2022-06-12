@@ -25,7 +25,7 @@ experience:
   - title: Marie Skłodowska-Curie postdoctoral scholar
     company: UC Berkeley
     company_url: 'https://cbe.berkeley.edu/about-us/people/federico-dallo/'
-    company_logo: org-gc
+    company_logo: berkeley2
     location: California
     date_start: '2021-01-15'
     date_end: '2023-01-15'
