@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: federico.dallo.1989@gmail.com
+  email: rosy.r.project@gmail.com
   phone: 888 888 88 88
   address:
     street: 390 Wurster Hall
