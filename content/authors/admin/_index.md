@@ -42,6 +42,6 @@ bio: My research interests include air quality, sensors network and statistical 
   analysis.
 ---
 
-Federico Dallo, PhD, joins CBE as a postdoctoral researcher from Ca’ Foscari University of Venice and a Marie Curie Fellow. He brings expertise with wireless monitoring in remote field installations.
+Federico Dallo, PhD, is a postdoctoral researcher at the University of California, Berkeley. He came from the Ca’ Foscari University of Venice and joined the Center for the Built Environment as a Marie Curie Fellow. He brings expertise with wireless monitoring in remote field installations.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
