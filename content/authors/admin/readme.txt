@@ -1,0 +1,1 @@
+To add the avatar icon on the webpage rename federico400 to avatar.jpg
