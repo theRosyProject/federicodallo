@@ -11,16 +11,16 @@ education:
   - course: BS in Chemistry
     institution: University of Ferrara
     year: 2011
-email: federico.dallo.1989@gmail.com
+email: federico.dallo@cnr.it
 highlight_name: yes
 interests:
 - Air Quality
 - Wireless Sensors Network
 - Statistical Data Analysis
 organizations:
-- name: Berkeley University
-  url: "https://cbe.berkeley.edu/about-us/people/federico-dallo/"
-role: Postdoctoral Researcher
+- name: National Research Council of Italy
+  url: "https://www.isp.cnr.it/index.php/en/organization/director/item/271-dallo-federico"
+role: Staff Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,6 +42,7 @@ bio: My research interests include air quality, sensors network and statistical 
   analysis.
 ---
 
-Federico Dallo, PhD, is a Marie Skłodowska-Curie Postdoctoral Researcher at the **University of California, Berkeley**. He came from the Ca’ Foscari University of Venice and joined the Center for the Built Environment (CBE), bringing expertise in air quality monitoring of indoor and outdoor environments.
+Federico Dallo, PhD. I am a Staff Researcher at the **National Research Council of Italy**. Previously, I worked as a Marie Curie Postdoctoral Researcher at the Center for the Built Environment (CBE) at the University of California, Berkeley. My expertise lies in air quality monitoring for both indoor and outdoor environments.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
