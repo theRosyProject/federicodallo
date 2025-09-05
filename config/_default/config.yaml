@@ -5,8 +5,8 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Academic # Website name
-#baseURL: 'https://federicodallo.netlify.app' # Website URL
-baseURL: 'https://www.federicodallo.io' # Website URL
+baseURL: 'https://federicodallo.netlify.app' # Website URL
+#baseURL: 'https://federicodallo.particularmatter.org/' # Website URL
 
 ############################
 ## LANGUAGE
