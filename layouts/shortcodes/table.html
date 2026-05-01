@@ -1,0 +1,38 @@
+{{/* Table shortcode — local override compatible with Hugo 0.123+ */}}
+{{ $src := .Get "path" }}
+{{ $delimiter := .Get "delimiter" | default "," }}
+{{ $useHeaderRow := (eq (lower (.Get "header")) "true") | default true }}
+{{ $caption := .Get "caption" }}
+
+{{ $is_remote := strings.HasPrefix $src "http" }}
+{{ if not $is_remote }}
+  {{ $src = path.Join "content" $.Page.File.Dir $src }}
+{{ end }}
+
+{{ $rows := slice }}
+{{ $resource := resources.Get $src }}
+{{ if $resource }}
+  {{ $rows = $resource.Content | transform.Unmarshal (dict "delimiter" $delimiter) }}
+{{ end }}
+
+<table class="table">
+  {{ if and $useHeaderRow (gt (len $rows) 0) }}
+    {{ $headerRow := index $rows 0 }}
+    {{ $rows = after 1 $rows }}
+    <tr> {{ range $headerRow }} <th>{{ . | markdownify | emojify }}</th> {{ end }} </tr>
+  {{ end }}
+  {{ range $rows }}
+    <tr>
+      {{ range . }}
+        {{ if (findRE "^\\d+$" .) }}
+          <td data-table-dtype="number">{{ . }}</td>
+        {{ else }}
+          <td data-table-dtype="text">{{ . | markdownify | emojify }}</td>
+        {{ end }}
+      {{ end }}
+    </tr>
+  {{ end }}
+  {{ if $caption }}
+    <caption>{{ $caption | markdownify | emojify }}</caption>
+  {{ end }}
+</table>

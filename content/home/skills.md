@@ -4,7 +4,7 @@
 widget: featurette
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -19,30 +19,28 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 97.5%
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 90%
+  - name: Air Quality Monitoring
+    icon: wind
+    icon_pack: fas
+    description: Indoor and outdoor monitoring using low-cost sensors and reference instruments
+  - name: Wireless Sensor Networks
+    icon: wifi
+    icon_pack: fas
+    description: Design and deployment of IoT sensor networks in remote and urban environments
+  - name: Statistical Data Analysis
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-#  - description: 10%
-#    icon: camera-retro
-#    icon_pack: fas
-#    name: Photography
-# Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"
-
-# Uncomment to use custom SVG icons.
-# Place your custom SVG icon in `assets/media/icons/`.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+    description: Time-series analysis, calibration, and uncertainty quantification
+  - name: R
+    icon: r-project
+    icon_pack: fab
+    description: Data analysis, visualisation, and reproducible research
+  - name: Python
+    icon: python
+    icon_pack: fab
+    description: Data processing, sensor firmware, and scientific computing
+  - name: LaTeX
+    icon: file-alt
+    icon_pack: fas
+    description: Scientific writing and document preparation
 ---

@@ -4,7 +4,7 @@
 widget: accomplishments
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -26,29 +26,26 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+  - date_end: '2023-01-15'
+    date_start: '2021-01-15'
+    description: Marie Skłodowska-Curie Individual Fellowship (MSCA-IF) for development of low-cost sensor technologies for atmospheric and climate sciences.
+    organization: European Commission / University of California, Berkeley
+    organization_url: https://marie-sklodowska-curie-actions.ec.europa.eu
+    title: Marie Skłodowska-Curie Postdoctoral Fellowship
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+  - date_end: ''
+    date_start: '2022-01-01'
+    description: Horizon Europe project (GA 101086541). Partner Leader for sensor network deployment and air quality monitoring.
+    organization: European Commission
+    organization_url: https://cordis.europa.eu
+    title: 'MISO — Horizon Europe Project (GA 101086541)'
+    url: ''
+  - date_end: ''
+    date_start: '2023-01-01'
+    description: Horizon Europe project (GA 101157458). Developing interventions for climate-related health risk adaptation.
+    organization: European Commission
+    organization_url: https://cordis.europa.eu
+    title: 'HealthRiskAdapt — Horizon Europe Project (GA 101157458)'
     url: ''
 
 design:

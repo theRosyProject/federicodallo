@@ -20,8 +20,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Staff Researcher at the National Research Council of Italy. Research in air quality monitoring, wireless sensor networks, IoT, and statistical data analysis for indoor and outdoor environments.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Federico Dallo.'
     license:
       enable: true
       allow_derivatives: false

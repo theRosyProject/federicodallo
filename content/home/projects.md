@@ -2,7 +2,7 @@
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -28,10 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: PIONEER
-      tag: PIONEER
-    - name: Other
-      tag: Demo
+    - name: Air Quality
+      tag: Air Quality
+    - name: Sensors
+      tag: Sensors
+    - name: Public Health
+      tag: Public Health
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
