@@ -37,12 +37,17 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: "https://www.linkedin.com/in/federico-dallo-b351a582/"
+- icon: globe
+  icon_pack: fas
+  link: https://particularmatter.org/
 superuser: yes
 bio: My research interests include air quality, sensors network and statistical data
   analysis.
 ---
 
 Federico Dallo, PhD. I am a Staff Researcher at the **National Research Council of Italy**. Previously, I worked as a Marie Curie Postdoctoral Researcher at the Center for the Built Environment (CBE) at the University of California, Berkeley. My expertise lies in air quality monitoring for both indoor and outdoor environments.
+
+I am also the founder of [**Particular Matter**](https://particularmatter.org/) — an open initiative dedicated to enhancing indoor environmental quality through sensor networks and artificial intelligence, with the foundational principle that everyone has *the right to breathe clean air*.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
